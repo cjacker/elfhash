@@ -3,7 +3,8 @@
 
 elfhash is a utility to manipulate hash table of ELF file.
 
-Features:
+#Features:
+
 0, Architecture indepent, That means you can handle 32bit arm ELF in x86/x86_64 platform.
 
 1, Convert GNU style hashtable in ELF to sysV style.
